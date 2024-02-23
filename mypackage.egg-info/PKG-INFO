@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/rachidnaguib?tab=repositories
+Author: rachid naguib
+Author-email: rachidnaguib8@gmail.com
+License: MIT
+
+# mypackage
+EH
+This library was created as an example of how to publish your own Python package.
+# How to install
+...
